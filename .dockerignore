@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
+.env
+.venv
+venv/
+.idea/
+.vscode/
+outputs*/
+outputs/
+outputs_final_pipeline/
+best2.pt
+sam_vit_h_4b8939.pth
+images/
